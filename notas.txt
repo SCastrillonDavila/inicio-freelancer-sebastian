@@ -1,1 +1,2 @@
 "Lista de tareas del equipo" 
+"Tarea 1: Configurar el entorno" 
